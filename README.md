@@ -35,20 +35,6 @@ I’m a **Creative Developer and 3D Artist** who builds **immersive, interactive
 
 ---
 
-## 🌐 Featured Work
-
-### Yam Space — Interactive 3D Web
-- Immersive browser-based 3D experience
-- Real-time interaction, animation, and smooth navigation
-- Ideal for portfolios, campaigns, and experimental digital spaces
-
-### StayWise — Property Renting App
-- Full-stack rental platform with transaction flow
-- Role-based dashboards and modern UI
-- Built for usability, clarity, and scalability
-
----
-
 ## 🤝 Let’s Work Together
 
 - Portfolio: *[https://yam-space-next.vercel.app/]*
